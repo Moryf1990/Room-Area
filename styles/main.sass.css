@@ -1,0 +1,24 @@
+#header {
+  height: 3em;
+  background: teal;
+  margin-bottom: 0em; }
+
+#button1 {
+  margin-left: 1em; }
+
+#form {
+  height: 15em;
+  background: orange; }
+
+#length {
+  margin-top: 1em;
+  margin-left: 1em; }
+
+#submit {
+  margin-left: 1em;
+  margin-top: 1em; }
+
+#area {
+  height: 3em;
+  margin-left: 1em;
+  margin-top: 1em; }
